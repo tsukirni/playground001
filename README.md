@@ -1,4 +1,4 @@
-# Sketch 001
+# Playground 001
 
 以下のチュートリアルをAstro + TypeScriptに移植しています。
 
